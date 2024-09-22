@@ -14,7 +14,7 @@ st.set_page_config(page_title="Calculadora de IMC", page_icon="🧮", layout="ce
 
 # Título de la aplicación
 st.title("Calculadora del Índice de Masa Corporal (IMC)")
-
+st.text("Autor: Edgardo Cuba")
 # Función para calcular el IMC
 def calcular_imc(peso, altura):
     return peso / (altura ** 2)
