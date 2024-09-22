@@ -48,6 +48,7 @@ if st.button("Calcular IMC"):
 
 # Pie de página
 st.write("Calcula tu IMC para saber si estás en un rango saludable.")
+st.markdown("Resultado :alien::pager:")
 
 
 
