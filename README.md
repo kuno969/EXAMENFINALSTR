@@ -1,1 +1,2 @@
 Cálculo de Índice de Masa Corporal
+El índice de masa corporal (IMC) es una medida utilizada para evaluar la relación entre el peso y la altura de una persona, siendo un indicador clave del estado nutricional. Su importancia radica en su capacidad para identificar el riesgo de enfermedades relacionadas con el sobrepeso y la obesidad, como diabetes, enfermedades cardíacas e hipertensión. Esta aplicación on line 
